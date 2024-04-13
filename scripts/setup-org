@@ -7,3 +7,7 @@
 # sf project deploy start --metadata-dir=guest-profile-metadata -w 10
 # sf org open
 git pull
+git checkout master 
+git pull 
+git checkout feature/child_2 
+git merge master
