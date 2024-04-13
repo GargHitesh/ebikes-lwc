@@ -11,3 +11,5 @@ git checkout master
 git pull 
 git checkout feature/child_2 
 git merge master
+#child 1
+git pull
